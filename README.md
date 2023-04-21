@@ -6,3 +6,11 @@
 
 예상 결과로는 온라인 대화에서 그루밍의 반복되는 특징을 찾고 정의할 수 있으며 사이버 그루밍의 징후를 감지 할 수 있는 학습 모델을 만들  수 있다. 
 또한 미성년자와 성인 간의 온라인 상호 작용을 모니터링하려는 아동 보호 기관, 부모 및 기타 관련  사람들에게 리소스를 제공한다. 이 AI 기술 솔루션은 온라인화되는 아동 성범죄 양상에 적합하다.
+
+
+## Model1: Bf-PSR:
+https://www.researchgate.net/publication/357415453_How_to_take_advantage_of_behavioral_features_for_the_early_detection_of_grooming_in_online_conversations
+위 'How to take advantage of behavioral features for the early detection of grooming in online conversations' 논문과 코드를 참조했다. 
+
+## Model2: Language-Model:
+huggingface를 이용해 longformer/ bigbird 등의 모델들을 사용 시도해보았다. 아직 좋은결과는 내지못하였다
