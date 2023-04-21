@@ -14,3 +14,6 @@ https://www.researchgate.net/publication/357415453_How_to_take_advantage_of_beha
 
 ## Model2: Language-Model:
 huggingface를 이용해 longformer/ bigbird 등의 모델들을 사용 시도해보았다. 아직 좋은결과는 내지못하였다
+
+###projectfile:
+시각화및 여러시도들을 모아놓았다
