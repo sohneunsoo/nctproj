@@ -16,3 +16,5 @@ huggingface를 이용해 longformer/ bigbird 등의 모델들을 사용 시도�
 
 ###projectfile:
 시각화및 여러시도들을 모아놓았다 
+
+###presentation slides - (온라인 아동 그루밍 조기 감지.pdf)
