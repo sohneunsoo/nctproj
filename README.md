@@ -14,7 +14,6 @@
 ## Model2: Language-Model:
 huggingface를 이용해 longformer/ bigbird 등의 모델들을 사용 시도해보았다. 
 
-###projectfile:
-시각화및 여러시도들을 모아놓았다 
 
-###[presentation slides](https://github.com/sohneunsoo/nctproj1-cyber-grooming/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%95%84%EB%8F%99%20%EA%B7%B8%EB%A3%A8%EB%B0%8D%20%EC%A1%B0%EA%B8%B0%20%EA%B0%90%EC%A7%80.pdf)
+
+###[발표자료](https://github.com/sohneunsoo/nctproj1-cyber-grooming/blob/main/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%95%84%EB%8F%99%20%EA%B7%B8%EB%A3%A8%EB%B0%8D%20%EC%A1%B0%EA%B8%B0%20%EA%B0%90%EC%A7%80.pdf)
